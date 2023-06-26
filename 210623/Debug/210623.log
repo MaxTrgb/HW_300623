@@ -1,0 +1,5 @@
+﻿  210623.cpp
+D:\Study\class\210623\210623.cpp(68,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Study\class\210623\210623.cpp(188,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Study\class\210623\210623.cpp(213,11): warning C4101: goods: неиспользованная локальная переменная
+  210623.vcxproj -> D:\Study\class\210623\Debug\210623.exe

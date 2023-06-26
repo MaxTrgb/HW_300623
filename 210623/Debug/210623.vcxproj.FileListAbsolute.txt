@@ -1,0 +1,3 @@
+C:\Users\student\source\repos\210623\Debug\210623.exe
+C:\Users\student\source\repos\210623\Debug\210623.pdb
+D:\Study\class\210623\Debug\210623.exe
